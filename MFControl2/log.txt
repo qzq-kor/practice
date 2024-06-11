@@ -1,0 +1,5 @@
+SliderPosition:0
+EditContent:
+CheckBoxes:0,0,0
+RadioButtons:0,0,0
+ComboBoxIndex:0
