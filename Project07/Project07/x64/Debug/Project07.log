@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  Overlay.cpp
+  Project07.cpp
+C:\Users\wintec\Desktop\2024Project\Project07\Project07\Overlay.cpp(294,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Overlay.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wintec\Desktop\2024Project\Project07\Project07\Overlay.cpp(295,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Overlay.cpp'을(를) 컴파일하는 중)
+  
+  Project07Dlg.cpp
+C:\Users\wintec\Desktop\2024Project\Project07\Project07\Project07Dlg.cpp(512,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Project07Dlg.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wintec\Desktop\2024Project\Project07\Project07\Project07Dlg.cpp(513,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Project07Dlg.cpp'을(를) 컴파일하는 중)
+  
+  Vision.cpp
+  코드를 생성하고 있습니다...
+  Project07.vcxproj -> C:\Users\wintec\Desktop\2024Project\Project07\x64\Debug\Project07.exe

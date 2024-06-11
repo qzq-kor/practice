@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  Overlay.cpp
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Overlay.cpp(294,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Overlay.cpp(295,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Overlay.cpp(571,35): warning C4244: '-=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Overlay.cpp(578,35): warning C4244: '+=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Overlay.cpp(585,33): warning C4244: '-=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Overlay.cpp(592,35): warning C4244: '+=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project08.cpp
+  Project08Dlg.cpp
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Project08Dlg.cpp(226,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Project08Dlg.cpp(227,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Project08Dlg.cpp(239,41): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Project08Dlg.cpp(240,38): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Project08Dlg.cpp(241,43): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\winte\Desktop\2024Project\Project08\Project08\Project08Dlg.cpp(242,44): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Vision.cpp
+  코드를 생성하고 있습니다...
+  Project08.vcxproj -> C:\Users\winte\Desktop\2024Project\Project08\x64\Debug\Project08.exe
