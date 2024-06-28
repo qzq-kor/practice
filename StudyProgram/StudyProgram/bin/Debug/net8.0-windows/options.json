@@ -1,0 +1,11 @@
+{
+  "IPAddress": "127.0.0.1",
+  "Port": 12401,
+  "RetryCount": 0,
+  "Value1Min": -2147483648,
+  "Value1Max": 2147483647,
+  "Value2Min": -2147483648,
+  "Value2Max": 2147483647,
+  "Value3Min": -2147483648,
+  "Value3Max": 2147483647
+}

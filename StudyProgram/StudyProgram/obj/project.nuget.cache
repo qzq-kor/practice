@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sd2fQvmvx+4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\winte\\source\\repos\\StudyProgram\\StudyProgram\\StudyProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\winte\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
